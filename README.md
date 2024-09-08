@@ -75,10 +75,3 @@ if (AreParanthesesBalanced(exp)) {
     std::cout << "Parentheses are not balanced." << std::endl;
 }
 ```
-
-## Development
-
-This library is actively under development. New features will be added over time, and users are encouraged to check back for updates. Please report any bugs or issues on the repository's issue tracker.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
