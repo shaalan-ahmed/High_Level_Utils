@@ -16,7 +16,7 @@ High_Level_Utils is a utility library that offers higher-level language features
 To install High_Level_Utils using `git`:
 
 ```bash
-git clone https://github.com/your-repo-url/High_Level_Utils.git
+git clone https://github.com/shaalan-ahmed/High_Level_Utils.git
 cd High_Level_Utils
 ```
 ### Download ZIP
